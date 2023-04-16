@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "1",
+    "text": "Hey man, What's up ?",
+    "timestamp": "9:30"
+  },
+  {
+    "sender": "2",
+    "text": "Msg 2",
+    "timestamp": "9:31"
+  },
+  {
+    "sender": "3",
+    "text": "Msg 3",
+    "timestamp": "9:32"
+  },
+  {
+    "sender": "4",
+    "text": "Msg 4",
+    "timestamp": "9:33"
+  },
+  {
+    "sender": "5",
+    "text": "Msg 5",
+    "timestamp": "9:34"
+  },
+  {
+    "sender": "6",
+    "text": "Msg 6",
+    "timestamp": "9:35"
+  }
+]
