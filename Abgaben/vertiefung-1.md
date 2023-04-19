@@ -1,4 +1,5 @@
 # Abgabe Gruppe 1, Veriefung 1 
+<sup><sup>Christine Kuczera, Dirk Drutschman, Hicham Naoufal, Michael Schröter, Jan Zimmermann, Ivo Valls</sup></sup>
 
 ## Aufgabe a) Safety und Security
 Stellen Sie die Safety der Security gegenüber. Betrachten Sie dabei folgende
@@ -114,8 +115,13 @@ In Krisen werden Entscheidungen in der Regel vom Krisenstab oder der Krisenmanag
 # Quellen
 
 [^1: Iso 270xx Fammilie](https://www.iso.org/standard/27001)
+
 [^2: SOC2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report)
+
 [^3: IT Grundschutz Kataloge](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/IT-GS-Kompendium_Einzel_PDFs_2023/Zip_Datei_Edition_2023.html)
+
 [^4: Schutzobjekte](https://www.bsi.bund.de/dok/6611132)
+
 [^5: Schadenskategorien](https://www.bsi.bund.de/dok/6611490)
+
 [^6: BS1 Standard 200-1](https://www.bsi.bund.de/dok/10027834)
