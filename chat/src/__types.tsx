@@ -1,7 +1,8 @@
 export type MessageType = {
+  type?: string;
   text: string;
-  timestamp: string;
-  sender: string;
+  timestamp?: string;
+  sender?: string;
 };
 
 export type ContactType = {

@@ -5,6 +5,7 @@ import { Contact } from './Contact';
 import { Message } from './Message';
 import messages from '../Data/messages.json';
 import contacts from '../Data/contacts.json';
+import { MessageDivider } from './Divider';
 
 export const Chat = () => {
   const [currentUser, setCurrentUser] = useState<string>(contacts[0].Id);
@@ -58,14 +59,26 @@ export const Chat = () => {
               overflowY: 'auto',
             }}
           >
-            {messages.map((message, idx) => (
-              <Message
-                key={idx}
-                {...message}
-                sender={contacts.find((c) => c.Id == message.sender).Name}
-                alignment={message.sender == currentUser ? 'left' : 'right'}
-              />
-            ))}
+            {messages.map((message, idx) => {
+              switch (message.type) {
+                case 'message':
+                  return (
+                    <Message
+                      key={idx}
+                      {...message}
+                      sender={contacts.find((c) => c.Id == message.sender).Name}
+                      alignment={
+                        message.sender == currentUser ? 'left' : 'right'
+                      }
+                    />
+                  );
+                case 'divider':
+                  return <MessageDivider key={idx} {...message} />;
+                default:
+                  console.log(`Unkown message type ${message.type}`);
+                  return <></>;
+              }
+            })}
           </List>
           <Divider />
           <Grid container style={{ padding: '20px' }}>

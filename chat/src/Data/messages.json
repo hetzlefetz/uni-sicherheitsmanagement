@@ -1,114 +1,241 @@
 [
   {
+    "type": "divider",
+    "text": "Rollenspiel: Beauftragung"
+  },
+  {
+    "type": "message",
     "sender": "6",
     "text": "Hallo, wir würden gerne einen Webshop bei ihnen bestellen",
     "timestamp": "9:30"
   },
   {
+    "type": "message",
     "sender": "1",
     "text": "Hallo Herr Valls um welches Thema ginge es denn",
     "timestamp": "9:31"
   },
   {
+    "type": "message",
     "sender": "6",
     "text": "Ich vertrete ein namhaftes Kunstauktionshaus und möchte sie beauftragen, uns eine exklusive Webpräsenz inklusive eines Onlineauktionshauses zu bauen",
     "timestamp": "9:32"
   },
   {
+    "type": "message",
     "sender": "1",
     "text": "Na klar, können wir machen. Bis wann brauchen sie es? Was darf es kosten",
     "timestamp": "9:33"
   },
   {
+    "type": "message",
     "sender": "6",
     "text": "Ich bräuchte es bis Juni diesen Jahres und ich habe ein fixes Budget von 50k€",
     "timestamp": "9:34"
   },
   {
+    "type": "message",
     "sender": "1",
     "text": "Ok, kein Problem",
     "timestamp": "9:35"
   },
 
   {
+    "type": "message",
     "sender": "1",
     "text": "Du, Hicham, ich habe gerade ein Auftrag bekommen eine Webseite zu bauen",
     "timestamp": "9:35"
   },
 
   {
+    "type": "message",
     "sender": "2",
     "text": "Ok, kein Problem",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "1",
     "text": "... inklusive eines Auktionshauses, können wir sowas?",
     "timestamp": "9:35"
   },
   {
+    "type": "message",
     "sender": "2",
     "text": "Öhm, haben wir noch nie gemacht. Du solltest vorher vielleicht mal fragen bevor du etwas anbietest",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "1",
     "text": "Jaja, mach ich nächstes mal, versprochen",
     "timestamp": "9:35"
   },
   {
+    "type": "message",
     "sender": "2",
     "text": "Was ist unser Budget?",
     "timestamp": "9:36"
   },
+  { "type": "message", "sender": "1", "text": "50k, fix", "timestamp": "9:35" },
   {
-    "sender": "1",
-    "text": "50k, fix",
-    "timestamp": "9:35"
-  },
-  {
+    "type": "message",
     "sender": "2",
     "text": "Waaas?? Dann kann ich ja nur 3 Coder ansetzen damit auch was übrig bleibt... Ok ich sag ihnen Bescheid",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "2",
     "text": "Jan, Dirk, Micha, ihr baut jetzt mal eine Website mit nem Auktionshaus, einer Kümmert sich um die Website, einer um die Auktionsseite und einer macht sich schlau wie das mit Sicherheit aussieht",
     "timestamp": "9:36"
   },
+  { "type": "message", "sender": "4", "text": "Ok", "timestamp": "9:36" },
+  { "type": "message", "sender": "3", "text": "Ok", "timestamp": "9:36" },
   {
-    "sender": "4",
-    "text": "Ok",
-    "timestamp": "9:36"
-  },
-  {
-    "sender": "3",
-    "text": "Ok",
-    "timestamp": "9:36"
-  },
-  {
+    "type": "message",
     "sender": "5",
     "text": "Wenns sein muss",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "3",
     "text": "Müssen wir DSGVO beachten?",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "5",
     "text": "Was für Daten sollen denn gespeichert werden?",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "4",
     "text": "Machen wir auch die Wartung?",
     "timestamp": "9:36"
   },
   {
+    "type": "message",
     "sender": "2",
     "text": "ja, ist alles noch nicht abschließend geklärt, ich regel das Zeitnah mit der Chefin, aber fangt schonmal an",
     "timestamp": "9:36"
+  },
+  {
+    "type": "divider",
+    "text": "Rollenspiel: Kosten der Sicherheit"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Hallo Herr Valls, ich hätte da noch einmal ein Thema bezüglich ihres Auftrages",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Ah um was geht's? Wollen sie etwa jetzt schon nachverhandeln?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Nein, aber wir müssten uns über das Thema Sicherheit unterhalten ...",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Wieso dass denn? Können sie das nicht sicher machen?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Ja, schon aber Sicherheit ist ja bekanntlich kein zustand, sondern ein Prozess...",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Das heißt?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Wir müssten die Sicherheit schon ganzheitlich betrachten, von der Softwareentwicklung bis zum Betrieb.",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Ach ja, Betrieb, da müssen wir gegebenen Falls auch noch mal drüber sprechen, ich habe da ja nicht so die Expertise",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Wir können das gerne für sie Betreiben, dass würde aber extra Berechnet werden",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Und wie viel soll das Kosten und was machen sie dann genau?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Wir würden die für Sie entwickelte Anwendung dann bei uns im Rechenzentrum hosten und uns natürlich auch um die Sicherheit kümmern",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Und das Kostet?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Bei ihrem zu erwartenden Volumen und Anforderungen würde ich von ca 200€ im Monat ausgehen, wenn sie länger buchen dann könnte man sicher auch noch einmal über den Preis reden",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "2500€? Für das bisschen? Ich sag dem Azubi der soll das machen, der hat ja schließlich auch so ein Smartphone",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Das steht ihnen natürlich frei... Aber sie müssen Bedenken was das auch unter anderem für rechtliche Konsequenzen haben kann...",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Rechtliche?",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "message",
+    "sender": "1",
+    "text": "Nun, sie wollen Kundendaten verarbeiten, Bankverbindungen, Onlinezahlung, da kommt schon was zusammen, DSGVO und so. Sie wissen schon...",
+    "timestamp": "9:31"
+  },
+  {
+    "type": "message",
+    "sender": "6",
+    "text": "Hmm... ich werde das noch mal mit unserer IT Besprechen ... Mal schauen wo der Azubi schon wieder steckt ...",
+    "timestamp": "9:30"
+  },
+  {
+    "type": "divider",
+    "text": "Rollenspiel: Kosten der Sicherheit"
   }
 ]
