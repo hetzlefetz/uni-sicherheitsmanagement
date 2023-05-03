@@ -5,7 +5,7 @@
 
 **Antwort**
 
-Nach ISO/IEC 25010 zeichnet sich qualititiv hochwertige Software durch folgende acht Kriterien aus:[^1]
+Nach ISO/IEC 25010 zeichnet sich qualititiv hochwertige Software durch folgende acht Kriterien aus: [^1]
 
 ### Wartbarkeit
 
@@ -88,7 +88,7 @@ Siehe: https://hetzlefetz.github.io/uni-sicherheitsmanagement/chat/dist/index.ht
 
 ## Aufgabe 5) Vertiefen Sie die Auflistung der zu erwartenden Gefährdung Ihres Use Cases hinsichtlich Geschäftsmodell, Asset, Bedrohung und Einsatzumgebung.
 
-**Antwort**
+**Antwort aus Vertiefung 1b Aufgabe c)**
 
 - Branche, Zielgruppe: Kunsthandel, (Wohlabende) Gehobene Klientel
 - Mitarbeiterzahl: KMU, ~ 50 Mitarbeiter
@@ -104,6 +104,30 @@ Mögliche Angreifer:
 - Konkurrenten könnten versuchen Kunden abzugraben.
 - Finanzamt könnte versuchen Kundendaten einzusehen.
 - Bei umstrittener Kunst könnten Aktivisten versuchen die Seite unbenutzbar zu machen. 
+
+**Vertiefung**
+### Geschäftsmodell
+
+-Entwendung der Kundenliste: Der Diebstahl der Kundenliste kann zu einem erheblichen Verlust des Geschäftsmodells führen, da diese Kunden in dieser Branche oft Wiederholungskäufer sind. Auch könnte die Konkurrenz diese Liste nutzen, um Kunden abzuwerben oder den Ruf des Unternehmens schaden.
+-Nichtdurchführbarkeit der Auktion: Wenn die Auktion nicht wie geplant stattfinden kann, werden wertvolle Verkaufschancen verloren gehen, was sich direkt auf den Umsatz und die Reputsation auswirkt.
+-Defacement der Seite: Ein Angriff auf die Website, der zu einer Änderung oder Beschädigung der Website führt, kann das Vertrauen der Kunden beeinträchtigen und zu einem erheblichen Verlust von Kunden und Einkommen führen.
+
+### Asset
+
+-Kundenliste: Die Kundenliste ist ein wichtiges Asset des Kunsthandels, da sie eine Liste von wertvollen Kunden enthält, die potenzielle Käufer von Kunstwerken sein könnten.
+-Auktionsplattform: Die Auktionsplattform ist ein wichtiges Asset, da sie die primäre Verkaufsplattform für die Kunstwerke ist - interesant für Kunden, die nicht das lokale Geschäft aufsuchen können.
+-Webseite: Die Webseite ist ein wichtiges Asset, da sie das Unternehmen repräsentiert und als primäre Informationsquelle für Kunden dient.
+
+### Bedrohung
+
+-Konkurrenten: Konkurrenten könnten versuchen, Kunden abzuwerben, indem sie auf Informationen zugreifen, die sie nicht haben sollten. Darüber hinaus könnten sie gezielte Werbeaktionen durchführen, um Kunden abzuwerben.
+-Finanzamt: Das Finanzamt könnte versuchen, auf die Kundenliste zuzugreifen, um z.B. Informationen über Steuerzahlungen und ähnliches zu erhalten.
+-Aktivisten: Aktivisten, die sich gegen umstrittene Kunstwerke aussprechen, könnten versuchen, die Website unbenutzbar zu machen, um ihren Standpunkt zu verdeutlichen.
+
+### Einsatzumgebung
+
+-Gehobene Klientel: Die Zielgruppe des Kunsthandels ist eine gehobene Klientel, die hohe Erwartungen an den Service und die Qualität haben. Ein Verlust des Vertrauens kann erhebliche Auswirkungen auf das Geschäft haben, in diesen Kreisen ist der Ruf einer Unternehmung bedeutsam und wird schnell über Mundpropaganda verbreitet.
+-Weltweit: Der Kunsthandel findet weltweit statt, was bedeutet, dass das Unternehmen mit verschiedenen gesetzlichen Vorschriften, Sprachbarrieren und kulturellen Unterschieden konfrontiert sein kann.
 
 # Quellen
 
