@@ -130,109 +130,109 @@
     "type": "message",
     "sender": "1",
     "text": "Hallo Herr Valls, ich hätte da noch einmal ein Thema bezüglich ihres Auftrages",
-    "timestamp": "9:31"
+    "timestamp": "9:42"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Ah um was geht's? Wollen sie etwa jetzt schon nachverhandeln?",
-    "timestamp": "9:30"
+    "timestamp": "9:43"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Nein, aber wir müssten uns über das Thema Sicherheit unterhalten ...",
-    "timestamp": "9:31"
+    "timestamp": "9:44"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Wieso dass denn? Können sie das nicht sicher machen?",
-    "timestamp": "9:30"
+    "timestamp": "9:44"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Ja, schon aber Sicherheit ist ja bekanntlich kein zustand, sondern ein Prozess...",
-    "timestamp": "9:31"
+    "timestamp": "9:45"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Das heißt?",
-    "timestamp": "9:30"
+    "timestamp": "9:45"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir müssten die Sicherheit schon ganzheitlich betrachten, von der Softwareentwicklung bis zum Betrieb.",
-    "timestamp": "9:31"
+    "timestamp": "9:46"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Ach ja, Betrieb, da müssen wir gegebenen Falls auch noch mal drüber sprechen, ich habe da ja nicht so die Expertise",
-    "timestamp": "9:30"
+    "timestamp": "9:47"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir können das gerne für sie Betreiben, dass würde aber extra Berechnet werden",
-    "timestamp": "9:31"
+    "timestamp": "9:48"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Und wie viel soll das Kosten und was machen sie dann genau?",
-    "timestamp": "9:30"
+    "timestamp": "9:49"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir würden die für Sie entwickelte Anwendung dann bei uns im Rechenzentrum hosten und uns natürlich auch um die Sicherheit kümmern",
-    "timestamp": "9:31"
+    "timestamp": "9:49"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Und das Kostet?",
-    "timestamp": "9:30"
+    "timestamp": "9:50"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Bei ihrem zu erwartenden Volumen und Anforderungen würde ich von ca 200€ im Monat ausgehen, wenn sie länger buchen dann könnte man sicher auch noch einmal über den Preis reden",
-    "timestamp": "9:31"
+    "timestamp": "9:51"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "2500€? Für das bisschen? Ich sag dem Azubi der soll das machen, der hat ja schließlich auch so ein Smartphone",
-    "timestamp": "9:30"
+    "timestamp": "9:52"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Das steht ihnen natürlich frei... Aber sie müssen Bedenken was das auch unter anderem für rechtliche Konsequenzen haben kann...",
-    "timestamp": "9:31"
+    "timestamp": "9:52"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Rechtliche?",
-    "timestamp": "9:30"
+    "timestamp": "9:53"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Nun, sie wollen Kundendaten verarbeiten, Bankverbindungen, Onlinezahlung, da kommt schon was zusammen, DSGVO und so. Sie wissen schon...",
-    "timestamp": "9:31"
+    "timestamp": "9:53"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Hmm... ich werde das noch mal mit unserer IT Besprechen ... Mal schauen wo der Azubi schon wieder steckt ...",
-    "timestamp": "9:30"
+    "timestamp": "9:54"
   },
   {
     "type": "divider",
@@ -242,132 +242,132 @@
     "type": "message",
     "sender": "1",
     "text": "Hallo Herr Valls, ich hätte da noch einmal ein Thema bezüglich ihres Auftrages",
-    "timestamp": "9:31"
+    "timestamp": "9:42"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Ah um was geht's? Wollen sie etwa jetzt schon nachverhandeln?",
-    "timestamp": "9:30"
+    "timestamp": "9:43"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Nein, aber wir müssten uns über das Thema Sicherheit unterhalten ...",
-    "timestamp": "9:31"
+    "timestamp": "9:44"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Wieso dass denn? Können sie das nicht sicher machen?",
-    "timestamp": "9:30"
+    "timestamp": "9:44"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Ja, schon aber Sicherheit ist ja bekanntlich kein zustand, sondern ein Prozess...",
-    "timestamp": "9:31"
+    "timestamp": "9:45"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Das heißt?",
-    "timestamp": "9:30"
+    "timestamp": "9:45"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir müssten die Sicherheit schon ganzheitlich betrachten, von der Softwareentwicklung bis zum Betrieb.",
-    "timestamp": "9:31"
+    "timestamp": "9:46"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Ach ja, Betrieb, da müssen wir gegebenen Falls auch noch mal drüber sprechen, ich habe da ja nicht so die Expertise",
-    "timestamp": "9:30"
+    "timestamp": "9:47"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir können das gerne für sie Betreiben, dass würde aber extra Berechnet werden",
-    "timestamp": "9:31"
+    "timestamp": "9:48"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Und wie viel soll das Kosten und was machen sie dann genau?",
-    "timestamp": "9:30"
+    "timestamp": "9:49"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Wir würden die für Sie entwickelte Anwendung dann bei uns im Rechenzentrum hosten und uns natürlich auch um die Sicherheit kümmern",
-    "timestamp": "9:31"
+    "timestamp": "9:49"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Und das Kostet?",
-    "timestamp": "9:30"
+    "timestamp": "9:50"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Bei ihrem zu erwartenden Volumen und Anforderungen würde ich von ca 200€ im Monat ausgehen, wenn sie länger buchen dann könnte man sicher auch noch einmal über den Preis reden",
-    "timestamp": "9:31"
+    "timestamp": "9:51"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "2500€? Für das bisschen? Ich sag dem Azubi der soll das machen, der hat ja schließlich auch so ein Smartphone",
-    "timestamp": "9:30"
+    "timestamp": "9:52"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Das steht ihnen natürlich frei... Aber sie müssen Bedenken was das auch unter anderem für rechtliche Konsequenzen haben kann...",
-    "timestamp": "9:31"
+    "timestamp": "9:52"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Rechtliche?",
-    "timestamp": "9:30"
+    "timestamp": "9:53"
   },
   {
     "type": "message",
     "sender": "1",
-    "text": "Nun, sie wollen Kundendaten verarbeiten, Bankverbindungen, Onlinezahlung, da kommt schon was zusammen, DSGVO und so.",
-    "timestamp": "9:31"
+    "text": "Nun, sie wollen Kundendaten verarbeiten, Bankverbindungen, Onlinezahlung, da kommt schon was zusammen, DSGVO und so. Sie wissen schon...",
+    "timestamp": "9:53"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Hmm... ich werde das noch mal mit unserer IT Besprechen ... Mal schauen wo der Azubi schon wieder steckt ...",
-    "timestamp": "9:30"
+    "timestamp": "9:54"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Sie sollten auch im Blick behalten, dass Software stets aktuell gehalten werden muss. Anforderungen und Risiken entwickeln sich ebenfalls stetig weiter, so dass ein Produkt, dass mit heutigem Stand sicher ist, bereits morgen Gaunern Tür und Tor offen stehen lässt.",
-    "timestamp": "9:31"
+    "timestamp": "9:55"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Da spielt unsere IT sicher einfach einen Patch auf und die Sache ist wieder sicher...",
-    "timestamp": "9:30"
+    "timestamp": "9:55"
   },
   {
     "type": "message",
     "sender": "1",
     "text": "Sollten wir den Betrieb übernehmen, warten wir die Software für Sie, so dass sie stehts ein Produkt haben, dass auf dem neusten Stand der Technik und vorallem allen Kriterien von guter Software genügt!",
-    "timestamp": "9:31"
+    "timestamp": "9:56"
   },
   {
     "type": "message",
     "sender": "6",
     "text": "Ihre Argumente hören sich ganz vernünftig an, jedoch reden wir auch über viel Geld, ich lasse es mir nochmal durch den Kopf gehen...",
-    "timestamp": "9:30"
-  },
+    "timestamp": "9:58"
+  }
 ]
