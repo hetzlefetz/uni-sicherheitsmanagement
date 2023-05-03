@@ -79,10 +79,7 @@
 
 
 
-## Aufgabe a) Vergegenwärtigen Sie Ihre Dokumentation des Rollenspiels Kosten
-der Sicherheit aus dem Nachgang der ersten Vorlesung. Auch wenn eventuell
-das eine oder andere Teammitglied gewechselt haben mag: Würden Sie heute
-einzelne Verhandlungspositionen revidieren können? Können Sie JSM verargumentieren? Warum wird der Kunde die "Selbstverständlichkeit Sicherheit" nicht gesondert bezahlen wollen?
+## Aufgabe a) Vergegenwärtigen Sie Ihre Dokumentation des Rollenspiels Kosten der Sicherheit aus dem Nachgang der ersten Vorlesung. Auch wenn eventuelldas eine oder andere Teammitglied gewechselt haben mag: Würden Sie heute einzelne Verhandlungspositionen revidieren können? Können Sie JSM verargumentieren? Warum wird der Kunde die "Selbstverständlichkeit Sicherheit" nicht gesondert bezahlen wollen?
 
 **Antwort**
 
