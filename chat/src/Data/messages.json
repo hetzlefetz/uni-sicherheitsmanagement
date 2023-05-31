@@ -265,5 +265,48 @@
     "sender": "6",
     "text": "Ihre Argumente hören sich ganz vernünftig an, jedoch reden wir auch über viel Geld, ich lasse es mir nochmal durch den Kopf gehen...",
     "timestamp": "9:58"
-  }
-]
+  },
+  {
+    "type": "divider",
+    "text": "Rollenspiel: Bedrohungsmodellierung, Unternehmen"
+  },
+  {
+    "type": "divider",
+    "text": "[...vorheriger Chat]"
+  },
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Guten Tag, Herr Valls. Vielen Dank für Ihre Zeit. Ich möchte betonen, dass die Sicherheitsaspekte, die wir besprechen werden, für den Erfolg unseres Web-Auktionshauses von entscheidender Bedeutung sind. Unsere Unternehmenswerte, die Anwenderanforderungen und der Schutz vor potenziellen Angreifern stehen im Mittelpunkt unseres Sicherheitsmanagements.",
+  "timestamp": "9:31"
+},
+{
+  "type": "message",
+  "sender": "6",
+  "text": "Guten Tag, Frau Kuczera, ich erinnere mich daran, dass die Sicherheitsaspekte bereits erwähnt wurden. Ich bin gespannt darauf, wie Sie sicherstellen wollen, dass sie erfüllt werden.",
+  "timestamp": "9:31"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Richtig, die Sicherheitsaspekte sind von größter Bedeutung für uns. Unser Unternehmen hat ein umfassendes Sicherheitsmanagement etabliert, das auf bewährten Standards und Best Practices basiert. Wir setzen moderne Verschlüsselungstechnologien ein, um die Vertraulichkeit und Integrität sensibler Daten, wie Zahlungsinformationen und persönliche Nutzerdaten, zu gewährleisten. Zusätzlich implementieren wir Firewalls, Intrusion-Detection-Systeme und führen regelmäßige Sicherheitsaudits durch, um potenzielle Angriffe zu erkennen und abzuwehren.",
+  "timestamp": "9:31"
+},
+{
+  "type": "message",
+  "sender": "6",
+  "text": "Das klingt beruhigend. Sicherheit ist für uns von größter Bedeutung, da wir das Vertrauen unserer Kunden wahren müssen. Wie gewährleisten Sie die Einhaltung von Sicherheitsstandards und die Abwehr von Angriffen?",
+  "timestamp": "9:31"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Unsere Sicherheitsmaßnahmen basieren auf anerkannten Standards wie ISO 27001 und befolgen bewährte Vorgehensweisen in Bezug auf Sicherheitsmanagement. Wir haben ein engagiertes Team von Sicherheitsexperten, das kontinuierlich die neuesten Bedrohungen und Angriffsmethoden analysiert und entsprechende Gegenmaßnahmen implementiert. Zudem sorgen wir dafür, dass unsere Mitarbeiter regelmäßig geschult werden, um Sicherheitsbewusstsein und -verhalten zu fördern.", 
+  "timestamp": "9:31"
+},
+{
+  "type": "message",
+  "sender": "6",
+  "text": "Das klingt vielversprechend. Ich schätze Ihre klare Haltung zu den sicherheitsrelevanten Aspekten. Wir werden Ihre Vorschläge sorgfältig prüfen und uns weiter darüber austauschen.",
+  "timestamp": "9:31"
+}]
