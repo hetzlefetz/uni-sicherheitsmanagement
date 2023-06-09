@@ -309,4 +309,98 @@
   "sender": "6",
   "text": "Das klingt vielversprechend. Ich schätze Ihre klare Haltung zu den sicherheitsrelevanten Aspekten. Wir werden Ihre Vorschläge sorgfältig prüfen und uns weiter darüber austauschen.",
   "timestamp": "9:31"
+},
+{
+  "type": "divider",
+  "text": "Rollenspiel: Kosten der Sicherheit"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Guten Morgen Team, ich habe eine Idee, wie wir die Sicherheit unseres Projekts weiter verbessern können.",
+  "timestamp": "9:00"
+},
+{
+  "type": "message",
+  "sender": "3",
+  "text": "Was schlägst du vor, Christine?",
+  "timestamp": "9:01"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Ich denke, wir sollten unabhängige Dritte einbeziehen, um unseren Code und unsere Sicherheitsmaßnahmen zu überprüfen. Das würde eine zusätzliche Ebene der Sicherheit bieten.",
+  "timestamp": "9:02"
+},
+{
+  "type": "message",
+  "sender": "4",
+  "text": "Das klingt vernünftig, aber bedeutet das nicht, dass wir unsere eigenen Tests vernachlässigen können?",
+  "timestamp": "9:03"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Nein, auf keinen Fall. Unsere eigenen Tests bleiben weiterhin wichtig, aber die Einbeziehung unabhängiger Dritter gibt uns zusätzliche Gewissheit und Objektivität.",
+  "timestamp": "9:04"
+},
+{
+  "type": "message",
+  "sender": "2",
+  "text": "Das klingt nach einer guten Maßnahme, aber wie hoch sind die Kosten dafür? Wir müssen das Budget im Auge behalten.",
+  "timestamp": "9:05"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Das ist ein wichtiger Punkt, Hicham. Die Kosten hängen von verschiedenen Faktoren ab, wie dem Umfang der Prüfung und den gewählten unabhängigen Dritten. Ich werde weitere Informationen einholen, um eine bessere Kosteneinschätzung zu geben.",
+  "timestamp": "9:06"
+},
+{
+  "type": "message",
+  "sender": "3",
+  "text": "Können wir uns diese zusätzliche Maßnahme überhaupt leisten? Wir haben bereits ein begrenztes Budget.",
+  "timestamp": "9:07"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Ich verstehe deine Bedenken, Dirk. Die Sicherheit ist jedoch von großer Bedeutung, insbesondere wenn es um den Schutz unserer Nutzerdaten geht. Als Entwicklungsleitung trage ich die Verantwortung für die Sicherheit des Projekts und bin optimistisch, dass wir einen Weg finden, um die zusätzlichen Kosten zu bewältigen.",
+  "timestamp": "9:08"
+},
+{
+  "type": "message",
+  "sender": "4",
+  "text": "Als Entwickler sehe ich auch die Bedeutung der Sicherheit, aber wir müssen auch das Budget im Blick behalten. Gibt es Möglichkeiten, die Kosten zu optimieren?",
+  "timestamp": "9:09"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Das ist ein interessanter Vorschlag, Jan. Ich werde prüfen, ob wir eine solche selektive Überprüfung in Betracht ziehen können, um die Kosten zu optimieren, ohne die Sicherheit zu beeinträchtigen.",
+  "timestamp": "9:10"
+},
+{
+  "type": "message",
+  "sender": "2",
+  "text": "Es ist wichtig, dass wir die Sicherheit ernst nehmen, aber wir müssen auch das Budget im Blick behalten. Lass uns eine fundierte Entscheidung treffen.",
+  "timestamp": "9:11"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Absolut, Hicham. Als Entwicklungsleitung trage ich die Verantwortung für das Gesamtprojekt, einschließlich der Sicherheit. Während Entwickler oft optimistisch sein können, da sie eng mit dem Code arbeiten, ist es meine Aufgabe, die Risiken abzuwägen und sicherzustellen, dass wir angemessene Sicherheitsmaßnahmen ergreifen.",
+  "timestamp": "9:12"
+},
+{
+  "type": "message",
+  "sender": "4",
+  "text": "Verstehe. Ich schätze deine Bemühungen, Christine, und ich bin bereit, bei der Umsetzung der zusätzlichen Sicherheitsmaßnahmen zu unterstützen.",
+  "timestamp": "9:13"
+},
+{
+  "type": "message",
+  "sender": "1",
+  "text": "Vielen Dank, Jan. Es ist großartig zu wissen, dass das Team zusammenarbeitet, um die Sicherheit unseres Projekts zu verbessern. Ich werde die Kosteneinschätzung vorbereiten und wir werden gemeinsam die beste Vorgehensweise finden.",
+  "timestamp": "9:14"
 }]
