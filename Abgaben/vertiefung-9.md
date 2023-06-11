@@ -17,7 +17,7 @@
         <tr>
           <td>Gruppe 1</td>
           <th>Sicherheitsmanagement<br />Vertiefung 9</th>
-          <td>25.06.2023</td>
+          <td>15.06.2023</td>
         </tr>
         <tr class="blank_row">
               <td colspan="3"></td>
