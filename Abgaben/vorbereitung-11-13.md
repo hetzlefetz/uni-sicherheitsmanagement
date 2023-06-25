@@ -42,7 +42,7 @@
         </tr>
         <tr align="center">
           <td></td>
-          <td style="font-weight:bold; padding:8px">Vorbereitung 10</td>
+          <td style="font-weight:bold; padding:8px">Vorbereitung 11 - 13</td>
           <td></td>
         </tr>
         <tr>
